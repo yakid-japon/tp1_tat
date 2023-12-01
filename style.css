@@ -1,0 +1,29 @@
+h1,h2{
+    text-align: center;
+}
+.p1{
+   color: red; 
+}
+.p2{
+    color: blue;
+}
+.p3{
+    
+    text-align: center;
+}
+.done{
+ text-align: center;   
+}
+ul :nth-child(2){
+    color: brown;
+}
+ul :nth-child(3){
+    color: blue;
+}
+ol :nth-child(2){
+    color: brown;
+}
+.menu{
+    
+}
+
